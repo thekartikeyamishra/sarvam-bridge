@@ -156,7 +156,7 @@ The gateway speaks **each vendor's dialect on the front** and **Sarvam on the ba
 **Requires Node 20+.** Built and verified on Node 22.
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/sarvam-bridge.git
+git clone https://github.com/thekartikeyamishra/sarvam-bridge.git
 cd sarvam-bridge
 
 npm install
