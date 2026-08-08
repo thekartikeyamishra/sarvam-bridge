@@ -6,4 +6,3 @@ dist/
 coverage/
 .cache/
 .DS_Store
-.env.example
